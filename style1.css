@@ -1,0 +1,61 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  background-image: url("https://wallpapercave.com/wp/wp2639566.jpg");
+  background-color: black;
+  background-size: cover;
+  border: 10px;
+  margin: auto;
+  height: 850px;
+  padding: 30px;
+  font-size: 30px;
+  font-family: Raleway;
+  color: white;
+  text-align: center;
+}
+.p{
+  font-family: Raleway;
+}
+
+.box {
+  border: 2px solid white;
+  display: inline-block;
+  margin: 10px;
+  height: 460px;
+  width: 250px;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  font-family: Raleway;
+}
+
+.box1 {
+  background-image: url("https://s2.best-wallpaper.net/wallpaper/iphone/1808/Blonde-girl-fitness-sport-headphones-dumbbells-gym_iphone_640x1136.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box2 {
+  background-image: url("https://i.pinimg.com/474x/2b/ed/4f/2bed4ff29627d58cf4824caab1c6442d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.box3 {
+  background-image: url("https://images.pexels.com/photos/1552107/pexels-photo-1552107.jpeg?cs=srgb&dl=crossfit-crossfit-training-1552107.jpg&fm=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.box4 {
+  background-image: url("https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/thumbs/29619/runningmuscle.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}

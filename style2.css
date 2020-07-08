@@ -1,0 +1,60 @@
+.container {
+  background-image: url("https://wallpapercave.com/wp/wp2639566.jpg");
+  background-color: black;
+  background-size: cover;
+  border: 10px;
+  margin: auto;
+  height: 650px;
+  padding: 35px;
+  font-size: 30px;
+  font-family: Raleway;
+  color: white;
+  text-align: center;
+}
+.h{
+  font-size: 60px;
+  text-align: center;
+  font-family: Raleway;
+}
+.box {
+  border: 2px solid white;
+  display: inline-block;
+  margin: 10px;
+  height: 460px;
+  width: 250px;
+  padding: 8px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  font-family: Heebo;
+}
+
+
+.box5 {
+  background-image: url("https://wallpaperaccess.com/full/1459396.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box6 {
+  background-image: url("https://iv1.lisimg.com/image/15495982/736full-emily-skye.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box7 {
+  background-image: url("https://scontent.fixc5-1.fna.fbcdn.net/v/t1.0-9/27459484_1670426209702422_2895463508968271530_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=m6Dk6Og9m0AAX_zI4Jd&_nc_ht=scontent.fixc5-1.fna&oh=adf5cf33ad43ef74b8536dbf5d3fa633&oe=5F2A0945");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box8 {
+  background-image: url("https://magarticles.magzter.com/articles/3401/318199/5d3692e8534e7/Andre-Ferguson-Winter-Exercise-Workout.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}

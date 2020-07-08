@@ -1,0 +1,194 @@
+ *{
+  margin: 0px;
+  padding: 0px;
+}
+
+.heading {
+  display: block;
+  text-align: center;
+  padding: 210px;
+}
+
+.h1 {
+  font-size: 70px;
+}
+
+.container1 {
+  margin: auto;
+  background-color: #e4e3e3;
+  height: 900px;
+  padding: 50px;
+  background-image: url("https://wallpapercave.com/wp/wp2639543.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-size: 20px;
+  font-family: Raleway;
+  color: white;
+  text-align: center;
+}
+
+
+.p1 {
+  font-size: 50px;
+  line-height: 1.5em;
+  font-family: Raleway;
+}
+
+
+.Navbar {
+  padding-right: 25px;
+
+}
+
+.navbar ul {
+  overflow: auto;
+}
+
+.Navbar li {
+  
+  float: right;
+  list-style: none;
+  padding: 10px;
+  font-size: 26px;
+  color: white;
+  font-family: Raleway;
+
+}
+.a{
+  text-decoration: none;
+  color: white;
+
+}
+.a:hover{
+  background-color: grey;
+}
+
+
+.btn1 {
+  border: 1px solid white;
+  font-size: 40px;
+  font-family: Raleway;
+
+  color: white;
+  padding: 12px 17px 12px 17px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background-color: black;
+}
+
+.container2 {
+  margin: auto;
+  background-color: #e4e3e3;
+  height: 750px;
+  padding: 50px;
+  background-image: url("https://wallpapercave.com/wp/wp2639541.jpg");
+  background-size: cover;
+  background-position: center;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-family: Raleway;
+  line-height: 6.5em;
+
+}
+.h2{
+  font-size: 102px;
+}
+.h3{
+  font-size: 100px;
+}
+
+.p2 {
+  text-align: center;
+  font-family: Raleway;
+  font-size: 70px;
+}
+.container3 {
+  background-image: url("https://wallpapercave.com/wp/wp2639566.jpg");
+  background-color: black;
+  background-size: cover;
+  border: 10px;
+  margin: auto;
+  height: 850px;
+  padding: 60px;
+  font-size: 30px;
+  font-family: Raleway;
+  color: white;
+  text-align: center;
+  line-height: 1.5em
+}
+
+.p3{
+  text-align: center;
+  font-family: Raleway;
+}
+
+.box {
+  border: 2px solid white;
+  display: inline-block;
+  margin: 10px;
+  height: 560px;
+  width: 350px;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  font-family: Raleway;
+}
+
+.box1 {
+  background-image: url("https://s2.best-wallpaper.net/wallpaper/iphone/1808/Blonde-girl-fitness-sport-headphones-dumbbells-gym_iphone_640x1136.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box2 {
+  background-image: url("https://i.pinimg.com/474x/2b/ed/4f/2bed4ff29627d58cf4824caab1c6442d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box3 {
+  background-image: url("https://images.pexels.com/photos/1552107/pexels-photo-1552107.jpeg?cs=srgb&dl=crossfit-crossfit-training-1552107.jpg&fm=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box4 {
+  background-image: url("https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/thumbs/29619/runningmuscle.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.btn2 {
+  border: 1px solid white;
+  font-size: 40px;
+  font-family: Raleway;
+  color: white;
+  padding: 12px 17px 12px 17px;
+  text-decoration: none;
+  position: relative;
+  margin: auto 5px;
+}
+
+.btn2:hover {
+  background-color: black;
+}
+.Btn{
+  margin-top: 40px;
+}
+.container4 {
+  background-image: url("https://wallpapercave.com/wp/wp2639548.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 10px;
+  margin: auto;
+  height: 500px;
+  padding: 50px;
+}

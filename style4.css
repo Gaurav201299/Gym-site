@@ -1,0 +1,38 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.header {
+  background-image: url("https://surveymonkey-assets.s3.amazonaws.com/survey/167847288/b7bda01d-bc84-4416-b2da-9fd85609a426.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+  font-size: 30px;
+  font-family: Raleway;
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding: 25px;
+}
+
+.Mid {
+  margin: auto;
+  background-color: black;
+  height: 350px;
+  padding: 25px;
+  font-family: Raleway;
+  color: white;
+  text-align: left;
+}
+.list li span{
+  font-size: 18px;
+}
+
+.list li {
+  list-style: none;
+  font-family: Raleway;
+  font-size: 25px;
+  line-height: 1.5em;
+  font-weight: bold;
+}
